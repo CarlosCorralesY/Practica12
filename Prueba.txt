@@ -1,0 +1,3 @@
+pokebola () {
+  palabra x = 3 * 8;
+}
